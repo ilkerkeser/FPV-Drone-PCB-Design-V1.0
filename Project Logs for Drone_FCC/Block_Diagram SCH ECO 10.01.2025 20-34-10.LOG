@@ -1,0 +1,6 @@
+Remove Pin=U2A-5 From Net=ESC2
+Remove Pin=U2A-47 From Net=USART3_TX
+Remove Pin=U2A-48 From Net=USART3_RX
+Remove Pin=U2A-52 From Net=NRF24_SCK
+Change Pin Designator/Name:  Old Designator=J14-2 Old Name=2 New Designator =3 New Name=3
+Change Pin Designator/Name:  Old Designator=J14-3 Old Name=3 New Designator =2 New Name=2

@@ -1,0 +1,9 @@
+Added Component: Designator=J6(TBS Unify Pro 5G8 HV Race)
+Added Pin To Net: NetName=USART1_TX Pin=J6-1
+Added Pin To Net: NetName=AUIDIO Pin=J6-2
+Added Pin To Net: NetName=VIDEO Pin=J6-3
+Added Pin To Net: NetName=GND Pin=J6-4
+Added Pin To Net: NetName=+5V_VTX Pin=J6-5
+Added Pin To Net: NetName=GND Pin=J6-6
+Added Pin To Net: NetName=VBAT_VTX Pin=J6-7
+Added Member To Class: ClassName=Video Member=Component J6 TBS Unify PRO32 HV 5G8

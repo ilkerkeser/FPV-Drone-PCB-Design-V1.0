@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=J5 Old Footprint=JST SM04B-SRSS-TB New Footprint=HIROSE DF13A-4P-1.25H
+Change Component Footprint: Designator=J7 Old Footprint=JST SM04B-SRSS-TB New Footprint=HIROSE DF13A-4P-1.25H
+Change Component Footprint: Designator=J8 Old Footprint=JST SM04B-SRSS-TB New Footprint=HIROSE DF13A-4P-1.25H
+Change Component Footprint: Designator=J3 Old Footprint=JST SM06B-SRSS-TB New Footprint=HIROSE DF13-6P-1.25H
+Change Component Comment: Designator=J5 Old Comment==Part Number New Comment=DF13A-4P-1.25H(75)
+Change Component Comment: Designator=J7 Old Comment==Part Number New Comment=DF13A-4P-1.25H(75)
+Change Component Comment: Designator=J8 Old Comment==Part Number New Comment=DF13A-4P-1.25H(75)
+Change Component Comment: Designator=J3 Old Comment==Part Number New Comment=DF13-6P-1.25H(75)

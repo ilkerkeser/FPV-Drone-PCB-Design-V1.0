@@ -1,0 +1,160 @@
+Added Component: Designator=J9(WURTH 691322110002)
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://katalog.we-online.de/em/datasheet/6913221100xx.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/würth-elektronik/691322110002/2508538"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Finish"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - UL"; Value = "10 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Header Orientation"; Value = "90°, Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "21.06.2022 14:48:48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "691322110002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.138" (3.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions Per Level"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "WR-TBL Series 3221"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "732-2769-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Header, Male Pins, Shrouded (4 Side)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - UL"; Value = "300 V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=J9-1
+Added Pin To Net: NetName=GND Pin=J9-2
+Added Member To Class: ClassName=Power Member=Component C1 0.1 µF
+Added Member To Class: ClassName=Power Member=Component C2 10 µF
+Added Member To Class: ClassName=Power Member=Component C3 10 µF
+Added Member To Class: ClassName=Power Member=Component C4 10 µF
+Added Member To Class: ClassName=Power Member=Component C5 10 µF
+Added Member To Class: ClassName=Power Member=Component C6 10 µF
+Added Member To Class: ClassName=Power Member=Component C7 10 µF
+Added Member To Class: ClassName=Power Member=Component C8 0.1 µF
+Added Member To Class: ClassName=Power Member=Component C9 0.1 µF
+Added Member To Class: ClassName=Power Member=Component C10 10 µF
+Added Member To Class: ClassName=Power Member=Component C11 0.1µF
+Added Member To Class: ClassName=Power Member=Component C12 CL32B226KAJNNNE
+Added Member To Class: ClassName=Power Member=Component C13 CL32B226KAJNNNE
+Added Member To Class: ClassName=Power Member=Component C14 75 pF
+Added Member To Class: ClassName=Power Member=Component C15 120 pF
+Added Member To Class: ClassName=Power Member=Component C16 4.7 µF
+Added Member To Class: ClassName=Power Member=Component C17 10 µF
+Added Member To Class: ClassName=Power Member=Component C18 10 µF
+Added Member To Class: ClassName=ESC Member=Component C19 0.1 µF
+Added Member To Class: ClassName=ESC Member=Component C20 0.1 µF
+Added Member To Class: ClassName=Sensors Member=Component C21 0.1 µF
+Added Member To Class: ClassName=Sensors Member=Component C22 0.1 µF
+Added Member To Class: ClassName=Sensors Member=Component C23 0.1 µF
+Added Member To Class: ClassName=Sensors Member=Component C24 0.1 µF
+Added Member To Class: ClassName=Sensors Member=Component C25 0.1 µF
+Added Member To Class: ClassName=MCU Member=Component C26 10 µF
+Added Member To Class: ClassName=MCU Member=Component C27 0.1 µF
+Added Member To Class: ClassName=MCU Member=Component C28 0.1 µF
+Added Member To Class: ClassName=MCU Member=Component C29 0.1 µF
+Added Member To Class: ClassName=MCU Member=Component C30 0.1 µF
+Added Member To Class: ClassName=MCU Member=Component C31 0.1 µF
+Added Member To Class: ClassName=MCU Member=Component C32 0.1 µF
+Added Member To Class: ClassName=MCU Member=Component C33 0.1 µF
+Added Member To Class: ClassName=MCU Member=Component C34 0.1 µF
+Added Member To Class: ClassName=MCU Member=Component C35 22pF
+Added Member To Class: ClassName=MCU Member=Component C36 22pF
+Added Member To Class: ClassName=MCU Member=Component C37 2.2 µF
+Added Member To Class: ClassName=MCU Member=Component C38 0.1 µF
+Added Member To Class: ClassName=MCU Member=Component C39 2.2 µF
+Added Member To Class: ClassName=Video Member=Component C40 10 µF
+Added Member To Class: ClassName=Video Member=Component C41 10 µF
+Added Member To Class: ClassName=Video Member=Component C42 10 µF
+Added Member To Class: ClassName=Video Member=Component C43 10 µF
+Added Member To Class: ClassName=Video Member=Component C44 10 µF
+Added Member To Class: ClassName=Video Member=Component C45 10 µF
+Added Member To Class: ClassName=Video Member=Component C46 10 µF
+Added Member To Class: ClassName=Video Member=Component C47 0.1 µF
+Added Member To Class: ClassName=Video Member=Component C48 10 µF
+Added Member To Class: ClassName=Video Member=Component C49 1µF
+Added Member To Class: ClassName=Video Member=Component C50 10 µF
+Added Member To Class: ClassName=Video Member=Component C51 1µF
+Added Member To Class: ClassName=Video Member=Component C52 0.1 µF
+Added Member To Class: ClassName=Video Member=Component C53 10 µF
+Added Member To Class: ClassName=Video Member=Component C54 1µF
+Added Member To Class: ClassName=Video Member=Component C55 0.1 µF
+Added Member To Class: ClassName=Power Member=Component D1 SMF26VTR
+Added Member To Class: ClassName=Power Member=Component D2 BZX384-B16,115
+Added Member To Class: ClassName=Power Member=Component D3 USBLC6-2SC6
+Added Member To Class: ClassName=Power Member=Component D4 ASMT-QABD-AEF0E
+Added Member To Class: ClassName=Power Member=Component D5 SS33
+Added Member To Class: ClassName=Power Member=Component D6 BAT54C
+Added Member To Class: ClassName=ESC Member=Component D7 SP3003-02XTG
+Added Member To Class: ClassName=ESC Member=Component D8 SP3003-02XTG
+Added Member To Class: ClassName=ESC Member=Component D9 SP3003-02XTG
+Added Member To Class: ClassName=MCU Member=Component D10 DESD5V0U1BA-7
+Added Member To Class: ClassName=MCU Member=Component D11 DESD5V0U1BA-7
+Added Member To Class: ClassName=MCU Member=Component D12 DESD5V0U1BA-7
+Added Member To Class: ClassName=MCU Member=Component D13 Yellow
+Added Member To Class: ClassName=MCU Member=Component D14 DESD5V0U1BA-7
+Added Member To Class: ClassName=Power Member=Component IC1 AO4485
+Added Member To Class: ClassName=Power Member=Component IC2 AO4485
+Added Member To Class: ClassName=Power Member=Component IC3 TPS62825ADMQR
+Added Member To Class: ClassName=Sensors Member=Component IC4 ICM-20948
+Added Member To Class: ClassName=Power Member=Component J1 10118193-0001LF
+Added Member To Class: ClassName=ESC Member=Component J2 SM08B-SRSS-TB(LF)(SN)
+Added Member To Class: ClassName=Sensors Member=Component J3 DF13-6P-1.25H(75)
+Added Member To Class: ClassName=MCU Member=Component J4 B5B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Video Member=Component J5 DF13A-4P-1.25H(75)
+Added Member To Class: ClassName=Video Member=Component J6 TBS Unify PRO32 HV 5G8
+Added Member To Class: ClassName=Video Member=Component J7 DF13A-4P-1.25H(75)
+Added Member To Class: ClassName=Video Member=Component J8 DF13A-4P-1.25H(75)
+Added Member To Class: ClassName=Power Member=Component J9 691322110002
+Added Member To Class: ClassName=Power Member=Component L1 10 µH
+Added Member To Class: ClassName=Power Member=Component L2 470 nH
+Added Member To Class: ClassName=Power Member=Component Q1 BSR17A
+Added Member To Class: ClassName=Power Member=Component R1 51 kOhms
+Added Member To Class: ClassName=Power Member=Component R2 22 Ohms
+Added Member To Class: ClassName=Power Member=Component R3 22 Ohms
+Added Member To Class: ClassName=Power Member=Component R4 5.1 kOhms
+Added Member To Class: ClassName=Power Member=Component R5 51 kOhms
+Added Member To Class: ClassName=Power Member=Component R6 1 kOhms
+Added Member To Class: ClassName=Power Member=Component R7 1 kOhms
+Added Member To Class: ClassName=Power Member=Component R8 511 kOhms
+Added Member To Class: ClassName=Power Member=Component R9 49.9 Ohms
+Added Member To Class: ClassName=Power Member=Component R10 105 kOhms
+Added Member To Class: ClassName=Power Member=Component R11 100 kOhms
+Added Member To Class: ClassName=Power Member=Component R12 100 kOhms
+Added Member To Class: ClassName=Power Member=Component R13 200 kOhms
+Added Member To Class: ClassName=Power Member=Component R14 13.3 kOhms
+Added Member To Class: ClassName=Power Member=Component R15 100 kOhms
+Added Member To Class: ClassName=ESC Member=Component R16 220 Ohms
+Added Member To Class: ClassName=ESC Member=Component R17 220 Ohms
+Added Member To Class: ClassName=ESC Member=Component R18 220 Ohms
+Added Member To Class: ClassName=ESC Member=Component R19 220 Ohms
+Added Member To Class: ClassName=ESC Member=Component R20 220 Ohms
+Added Member To Class: ClassName=ESC Member=Component R21 220 Ohms
+Added Member To Class: ClassName=ESC Member=Component R22 51 kOhms
+Added Member To Class: ClassName=ESC Member=Component R23 220 Ohms
+Added Member To Class: ClassName=ESC Member=Component R24 5.1 kOhms
+Added Member To Class: ClassName=Sensors Member=Component R25 22 Ohms
+Added Member To Class: ClassName=Sensors Member=Component R26 22 Ohms
+Added Member To Class: ClassName=Sensors Member=Component R27 1 kOhms
+Added Member To Class: ClassName=Sensors Member=Component R28 1 kOhms
+Added Member To Class: ClassName=Sensors Member=Component R29 4.7 kOhms
+Added Member To Class: ClassName=Sensors Member=Component R30 4.7 kOhms
+Added Member To Class: ClassName=MCU Member=Component R31 51 kOhms
+Added Member To Class: ClassName=MCU Member=Component R32 51 kOhms
+Added Member To Class: ClassName=MCU Member=Component R33 10 kOhms
+Added Member To Class: ClassName=MCU Member=Component R34 22 Ohms
+Added Member To Class: ClassName=MCU Member=Component R35 22 Ohms
+Added Member To Class: ClassName=MCU Member=Component R36 1 kOhms
+Added Member To Class: ClassName=MCU Member=Component R37 22 Ohms
+Added Member To Class: ClassName=MCU Member=Component S1 MS12ASG13
+Added Member To Class: ClassName=MCU Member=Component S2 1977223-9
+Added Member To Class: ClassName=Power Member=Component U1 TPS54302DDCR
+Added Member To Class: ClassName=Sensors Member=Component U2 BMP390
+Added Member To Class: ClassName=MCU Member=Component U3 STM32F407VGT6TR
+Added Member To Class: ClassName=MCU Member=Component U4 W25Q256JVEIQ TR
+Added Member To Class: ClassName=MCU Member=Component Y1 8MHz

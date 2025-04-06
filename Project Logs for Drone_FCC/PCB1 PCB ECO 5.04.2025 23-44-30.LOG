@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=NetR38_1 Pin=S1-1
+Removed Pin From Net: NetName=+3V3 Pin=S1-3
+Removed Member From Class: ClassName=MCU Member=R33
+Change Component Footprint: Designator=S1 Old Footprint=NKK SS312SAH4 New Footprint=JS102011JCQN
+Change Component Comment : Designator=S1 Old Comment=SS312SAH4 New Comment=JS102011JCQN
+Change component parameters: Designator = "S1" ("S1"); Footprint = "NKK SS312SAH4"; UniqueID = "\IXMGXWUL" ("\IXMGXWUL")
+Change component parameters (AddParameter): Name = "Actuator Length"; Value = "2.00mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator Material"; Value = "Polyamide (PA46), Nylon 4/6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit"; Value = "SPDT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ckswitches.com/media/1422/js.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Digikey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/c-k/JS102011JCQN/6137628"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Finish"; Value = "Silver"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Timing"; Value = "Not Specified"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating (Amps)"; Value = "300mA (DC)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Electrical Life"; Value = "5,000 Cycles"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "C&K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Function"; Value = "On-On"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Travel"; Value = "2.00mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Style"; Value = "J Lead"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating - DC"; Value = "6V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=S1-1
+Added Pin To Net: NetName=NetR38_1 Pin=S1-3
+Added Pin To Net: NetName=NetS1_2 Pin=S1-2
+Added Pin To Net: NetName=NetS1_2 Pin=U3-60
+Added Net: Name=NetS1_2

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=C48-1
+Removed Pin From Net: NetName=+5V_VTX Pin=C48-2
+Removed Member From Class: ClassName=Video Member=C48

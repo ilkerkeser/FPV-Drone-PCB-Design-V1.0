@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=J1-S
+Removed Pin From Net: NetName=GND Pin=J1-S
+Removed Pin From Net: NetName=GND Pin=J1-S
+Removed Pin From Net: NetName=GND Pin=J1-S
+Removed Pin From Net: NetName=GND Pin=J1-S
+Removed Pin From Net: NetName=GND Pin=J1-S
+Change Component Footprint: Designator=J1 Old Footprint=FCI USB 10118193-0001LF New Footprint=629105136821
+Change Component Comment : Designator=J1 Old Comment=10118193-0001LF New Comment=Micro USB 2.0 Type B
+Change component parameters: Designator = "J1" ("J1"); Footprint = "FCI USB 10118193-0001LF"; UniqueID = "\WGEUFEDL" ("\WGEUFEDL")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/629105136821.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40 to 85 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "629105136821"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published Date"; Value = "May 2018"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "1 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Interface Type"; Value = "Micro USB 2.0 Type B"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-S1
+Added Pin To Net: NetName=GND Pin=J1-S2
+Added Pin To Net: NetName=GND Pin=J1-S3
+Added Pin To Net: NetName=GND Pin=J1-S4

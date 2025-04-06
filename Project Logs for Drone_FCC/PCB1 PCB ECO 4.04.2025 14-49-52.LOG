@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=J9 Old Footprint=WURTH 691322110002 New Footprint=XT30 Conn
+Change Component Comment : Designator=J9 Old Comment=691322110002 New Comment=XT30 Connector
+Change component parameters: Designator = "J9" ("J9"); Footprint = "WURTH 691322110002"; UniqueID = "\PIWPPVOP" ("\PIWPPVOP")

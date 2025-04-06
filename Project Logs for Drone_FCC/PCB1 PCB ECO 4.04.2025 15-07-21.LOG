@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VIN Pin=J9-1
+Removed Pin From Net: NetName=GND Pin=J9-2
+Change Comment: Unknown Component : J9
+Add Pin To Net: Unknown Pin: Pin J9-N
+Add Pin To Net: Unknown Pin: Pin J9-P

@@ -1,0 +1,6 @@
+Layer Pairs Export File for PCB: C:\Users\ILKER KESER\Documents\Altium Projects\Drone_FCC_STM\PCB_Project\PCB1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb1.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top1_Inner 1(GND)_Blind_Vias|DrillFile=pcb1.tx1|DrillLayers=gtl,gp1
+LayersSetName=Top1_Inner 2(PWR)_Blind_Vias|DrillFile=pcb1.tx2|DrillLayers=gtl,gp1,gp2
+LayersSetName=Inner 1(GND)_Bot_Blind_Vias|DrillFile=pcb1.tx3|DrillLayers=gp1,gp2,gbl
+LayersSetName=Inner 2(PWR)_Bot_Blind_Vias|DrillFile=pcb1.tx4|DrillLayers=gp2,gbl
